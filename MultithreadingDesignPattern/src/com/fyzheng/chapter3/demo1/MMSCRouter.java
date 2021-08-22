@@ -1,4 +1,4 @@
-package com.fyzheng.chapter3.demo;
+package com.fyzheng.chapter3.demo1;
 
 import java.util.Collections;
 import java.util.HashMap;
